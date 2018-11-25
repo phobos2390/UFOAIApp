@@ -1,0 +1,21 @@
+c:/users/james/Documents/Visual Studio 2012/Projects/UFOAIApp/UFOAIApp/bin/Debug/UFOAIApp.exe.config
+c:/users/james/Documents/Visual Studio 2012/Projects/UFOAIApp/UFOAIApp/obj/Debug/UFOAIApp.csprojResolveAssemblyReference.cache
+c:/users/james/Documents/Visual Studio 2012/Projects/UFOAIApp/UFOAIApp/obj/Debug/UFOAIApp.SoldierDataEntry.resources
+c:/users/james/Documents/Visual Studio 2012/Projects/UFOAIApp/UFOAIApp/obj/Debug/UFOAIApp.Properties.Resources.resources
+c:/users/james/Documents/Visual Studio 2012/Projects/UFOAIApp/UFOAIApp/obj/Debug/UFOAIApp.csproj.GenerateResource.Cache
+c:/users/james/Documents/Visual Studio 2012/Projects/UFOAIApp/UFOAIApp/bin/Debug/UFOAIApp.exe
+c:/users/james/Documents/Visual Studio 2012/Projects/UFOAIApp/UFOAIApp/bin/Debug/UFOAIApp.pdb
+c:/users/james/Documents/Visual Studio 2012/Projects/UFOAIApp/UFOAIApp/obj/Debug/UFOAIApp.exe
+c:/users/james/Documents/Visual Studio 2012/Projects/UFOAIApp/UFOAIApp/obj/Debug/UFOAIApp.pdb
+c:/users/james/Documents/Visual Studio 2012/Projects/UFOAIApp/UFOAIApp/obj/Debug/UFOAIApp.SortedSoldierTeamDataForm.resources
+/home/jlarsen/Desktop/VSProjects/UFOAIApp/UFOAIApp/bin/Debug/UFOAIApp.exe.config
+/home/jlarsen/Desktop/VSProjects/UFOAIApp/UFOAIApp/bin/Debug/UFOAIApp.exe
+/home/jlarsen/Desktop/VSProjects/UFOAIApp/UFOAIApp/bin/Debug/UFOAIApp.pdb
+/home/jlarsen/Desktop/VSProjects/UFOAIApp/UFOAIApp/obj/Debug/UFOAIApp.csprojAssemblyReference.cache
+/home/jlarsen/Desktop/VSProjects/UFOAIApp/UFOAIApp/obj/Debug/UFOAIApp.SoldierDataEntry.resources
+/home/jlarsen/Desktop/VSProjects/UFOAIApp/UFOAIApp/obj/Debug/UFOAIApp.Properties.Resources.resources
+/home/jlarsen/Desktop/VSProjects/UFOAIApp/UFOAIApp/obj/Debug/UFOAIApp.SortedSoldierTeamDataForm.resources
+/home/jlarsen/Desktop/VSProjects/UFOAIApp/UFOAIApp/obj/Debug/UFOAIApp.csproj.GenerateResource.cache
+/home/jlarsen/Desktop/VSProjects/UFOAIApp/UFOAIApp/obj/Debug/UFOAIApp.csproj.CoreCompileInputs.cache
+/home/jlarsen/Desktop/VSProjects/UFOAIApp/UFOAIApp/obj/Debug/UFOAIApp.exe
+/home/jlarsen/Desktop/VSProjects/UFOAIApp/UFOAIApp/obj/Debug/UFOAIApp.pdb
